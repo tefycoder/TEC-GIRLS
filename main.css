@@ -12,6 +12,20 @@ div {
 	
 }
 
+body {
+    font-style: normal;
+    font-variant-ligatures: normal;
+    font-variant-caps: normal;
+    font-variant-numeric: normal;
+    font-weight: 400;
+    font-stretch: normal;
+    font-size: 16px;
+    line-height: 1.5;
+    font-family: "Gill Sans", GillSansCRegular, Arial, sans-serif;
+    color: #4a575d;
+    position: relative;
+}
+
 #Squad{
     float: right;
 	margin-right: 35px;
