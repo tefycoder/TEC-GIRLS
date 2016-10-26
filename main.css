@@ -46,14 +46,27 @@ body {
 }
 
 img {
-    position: relative;
-    display: inline-block;
-    height: 400px;
-    width: 400px;
-    background-repeat: no-repeat;
-    background-position: 800%;
-    border-radius: 50%;
-    background-size: 100% auto;
+	width:200px;
+	height:200px;
+	border-radius: 50%;
+    margin-right: 30px;
+    
+}
+
+table, td {
+	background-color: none;
+    margin-top: 150px;
+    text-align: center;
+    font-family: monospace;
     
     
+}
+
+img {
+    opacity: 0.5;
+     
+}
+
+img:hover {
+    opacity: 1.0;
 }
